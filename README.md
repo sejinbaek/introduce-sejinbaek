@@ -1,7 +1,7 @@
 # 🤗 BAEKSEJIN INTRODUCE
 
 제 소개를 해볼게요🖐️♥️
-- 배포 사이트: [https://react-blog-frontend-ev4g.vercel.app/](https://baeksejin-portfolio-2025.vercel.app/)
+- 배포 사이트: https://sejinbaek.github.io/introduce-sejinbaek/
   
 ## 📌 사이트 소개
 
